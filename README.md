@@ -10,7 +10,7 @@ cs student @ the university of waterloo
   - [poképlants](https://github.com/FO214/ht6): built @ hack the 6ix ([devpost](https://devpost.com/software/pokeplants), 1st place overall)
   - [chroma](https://github.com/sbrina-w/Chroma): built @ wafflehacks ([devpost](https://devpost.com/software/chroma-q3wshr))
 - building for fun!
-  - [boxd office](https://github.com/rubylu-05/boxd-office), a letterboxd dashboard i built as a movie enthusiast
+  - [boxd office](https://github.com/rubylu-05/boxd-office): a letterboxd dashboard that i built as a movie enthusiast
 
 ### past:
 - winter 2025: hydropower optimization + ml @ [hatch](https://www.hatch.com/) (sustainability + software)
@@ -23,5 +23,3 @@ cs student @ the university of waterloo
 - cloud & database: `firebase` `mongodb` `aws` `sql`
 - mobile development: `flutter`
 - desktop & systems: `.net`
-
-##
