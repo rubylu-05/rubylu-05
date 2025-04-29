@@ -1,5 +1,6 @@
-# hi, i'm ruby :)
-cs student @ the university of waterloo
+# hi, i'm ruby!
+cs student @ the university of waterloo <br>
+[rubylu.dev](https://www.rubylu.dev/) ← check out my personal website for more :)
 
 ### currently:
 - incoming sde intern @ [aws](https://aws.amazon.com/) in seattle (fall 2025)
@@ -10,7 +11,7 @@ cs student @ the university of waterloo
   - [poképlants](https://github.com/FO214/ht6): built @ hack the 6ix ([devpost](https://devpost.com/software/pokeplants), 1st place overall)
   - [chroma](https://github.com/sbrina-w/Chroma): built @ wafflehacks ([devpost](https://devpost.com/software/chroma-q3wshr))
 - building for fun!
-  - [boxd office](https://github.com/rubylu-05/boxd-office): a letterboxd dashboard that i built as a movie enthusiast
+  - [boxd office](https://github.com/rubylu-05/boxd-office): a letterboxd dashboard for movie enthusiasts
 
 ### past:
 - winter 2025: hydropower optimization + ml @ [hatch](https://www.hatch.com/) (sustainability + software)
