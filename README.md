@@ -1,5 +1,5 @@
 # hi, i'm ruby!
-cs student @ the university of waterloo <br>
+computer science student @ the university of waterloo <br>
 [rubylu.dev](https://www.rubylu.dev/) ← check out my personal website for more :)
 
 ### currently:
@@ -20,7 +20,7 @@ cs student @ the university of waterloo <br>
 ### technical skills:
 - programming languages: `python` `c++` `c` `c#` `java` `javascript` `dart`
 - web development: `html/css` `react` `next.js` `node.js` `tailwind css` `flask`
-- data science & machine learning: `tensorflow` `opencv` `pandas` `beautifulsoup`
+- data science & machine learning: `tensorflow` `opencv` `pandas` `beautiful soup`
 - cloud & database: `firebase` `mongodb` `aws` `sql`
 - mobile development: `flutter`
 - desktop & systems: `.net`
