@@ -4,7 +4,7 @@ computer science student @ the university of waterloo <br>
 
 ### currently:
 - incoming sde intern @ [aws](https://aws.amazon.com/) in seattle (fall 2025)
-- seeking summer 2026 internship opportunities
+- seeking 2026 internship opportunities
 - doing lots of learning + going to hackathons
   - [nudge](https://github.com/sbrina-w/uofthacks12): built @ uoft hacks ([submission](https://dorahacks.io/buidl/21709))
   - [umless](https://github.com/kkatherineliu/umless): built @ hack the north ([devpost](https://devpost.com/software/memory-bricks))
