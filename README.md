@@ -3,7 +3,7 @@ computer science student @ the university of waterloo <br>
 [rubylu.dev](https://www.rubylu.dev/) ← check out my personal website for more :)
 
 ### currently:
-- incoming sde intern @ [aws](https://aws.amazon.com/) in seattle (fall 2025)
+- incoming sde intern @ [aws](https://aws.amazon.com/dynamodb/) in seattle (fall 2025)
 - seeking 2026 internship opportunities
 - doing lots of learning + going to hackathons
   - [nudge](https://github.com/sbrina-w/uofthacks12): built @ uoft hacks ([submission](https://dorahacks.io/buidl/21709))
@@ -20,7 +20,7 @@ computer science student @ the university of waterloo <br>
 ### technical skills:
 - programming languages: `python` `c++` `c` `c#` `java` `javascript` `dart`
 - web development: `html/css` `react` `next.js` `node.js` `tailwind css` `flask`
-- data science & machine learning: `tensorflow` `opencv` `pandas` `beautiful soup`
+- data science & machine learning: `tensorflow` `opencv` `pandas` `beautiful soup` `streamlit`
 - cloud & database: `firebase` `mongodb` `aws` `sql`
 - mobile development: `flutter`
 - desktop & systems: `.net`
