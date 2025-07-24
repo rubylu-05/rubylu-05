@@ -3,7 +3,7 @@
 [rubylu.dev](https://www.rubylu.dev/) ← check out my personal website for more :)
 
 ### currently
-- incoming @ [aws](https://aws.amazon.com/) as a software development engineering intern (```fall 2025```)
+- incoming @ [aws](https://aws.amazon.com/) as a software development engineer intern (```fall 2025```)
   - will be working with the [dynamodb](https://aws.amazon.com/dynamodb/) team in ```seattle```!
 - seeking ```summer 2026``` internship opportunities
 - doing lots of learning & going to hackathons
