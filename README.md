@@ -3,8 +3,8 @@
 [rubylu.dev](https://www.rubylu.dev/) ← check out my personal website for more :)
 
 ### currently
-- incoming @ [aws](https://aws.amazon.com/) as a software development engineer intern (```fall 2025```)
-  - will be working with the [dynamodb](https://aws.amazon.com/dynamodb/) team in ```seattle```!
+- software development engineer intern @ [aws](https://aws.amazon.com/) (```fall 2025```)
+  - working with the [dynamodb global tables](https://aws.amazon.com/dynamodb/global-tables) team in ```seattle```!
 - seeking ```summer 2026``` internship opportunities
 - doing lots of learning & going to hackathons
   - [nudge](https://github.com/sbrina-w/uofthacks12): built @ ```uoft hacks``` ([submission](https://dorahacks.io/buidl/21709))
